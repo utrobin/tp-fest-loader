@@ -1,0 +1,19 @@
+{
+  "name": "tp-fest-loader",
+  "version": "1.0.0",
+  "description": "Webpack loader for fest template engine",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "fest",
+    "loader",
+    "webpack"
+  ],
+  "author": {
+    "name": "Egor Utrobin",
+    "email": "egor.utrobin@gmail.com"
+  },
+  "dependencies": {
+    "fest": ">=0.8.2 <1.0.0"
+  }
+}
